@@ -3,10 +3,8 @@
 Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 
-YouTube Channel: https://www.youtube.com/user/kalinuxx
 
-
-Facebook: https://www.facebook.com/kalinuxtutorials/
+Instagram: https://www.instagram.com/mr_jarvis_officail
 
 # Installation
 Watch Video: https://www.youtube.com/watch?v=8KvY2NM47ZM
